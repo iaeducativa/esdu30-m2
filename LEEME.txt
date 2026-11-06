@@ -1,0 +1,21 @@
+ESDU · Módulo 2 · Encuentro sincrónico
+Abrir index.html para iniciar.
+La huella grupal se conserva en el navegador durante el recorrido.
+
+
+HOME — fotografía libre
+Fotografía utilizada en la portada: Efrem Efre / Pexels, licencia gratuita.
+https://www.pexels.com/photo/a-person-walking-up-the-stairs-15164649/
+La fotografía se utiliza sin texto, botones ni interfaz incrustada.
+
+
+VERSIÓN PROFESIONAL FINAL
+- Home: fotografía libre y limpia, sin interfaz incrustada.
+- Fotografía principal: Connor Scott McManus, Pexels, “Woman on Stairs Looking Back”, licencia gratuita de Pexels.
+  Fuente: https://www.pexels.com/photo/woman-on-stairs-looking-back-11924285/
+  Si la imagen remota no está disponible, el sitio usa una fotografía local de respaldo.
+- Laboratorio: emergente inicial que explica el sentido de los tres movimientos y puede reabrirse con el botón “¿Cómo funciona esta experiencia?”.
+- El emergente se muestra una vez por sesión del navegador para no interrumpir reiteradamente el trabajo.
+
+
+Fotografía de portada: George Pak / Pexels. Foto gratuita. Fuente: https://www.pexels.com/photo/college-students-walking-out-of-a-building-and-talking-7972526/
